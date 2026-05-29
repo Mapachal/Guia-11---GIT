@@ -1,1 +1,1 @@
-console.log("Las ballenas jorobadas defienden a las focas del ataque de las orcas - tercera version");
+console.log("El pez cebra se puede recuperar después de una lesión en la medula espinal - desde GitHub");
